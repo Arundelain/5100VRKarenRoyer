@@ -1103,8 +1103,6 @@
     <None Include="Assets\MixedRealityToolkit-Unity-2017.4.3.0\Assets\mcs.rsp" />
     <None Include="Assets\MixedRealityToolkit-Unity-2017.4.3.0\License.txt" />
     <None Include="Assets\MixedRealityToolkit-Unity-2017.4.3.0\ProjectSettings\ProjectVersion.txt" />
-    <None Include="Assets\Plugins\GitHub\Editor\credits.txt" />
-    <None Include="Assets\Plugins\GitHub\Editor\eula.txt" />
     <None Include="Assets\ResonanceAudio\Demos\Environment\ResonanceAudioDemo\CubeRoomUnlitGrayscale.shader" />
     <None Include="Assets\ResonanceAudio\Shaders\ResonanceAudioSurfaceMaterial.shader" />
   </ItemGroup>
